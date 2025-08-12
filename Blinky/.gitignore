@@ -1,0 +1,5 @@
+# IDE specific files
+*.launch
+
+# Build directory
+/Debug/
