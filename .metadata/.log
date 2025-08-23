@@ -10765,3 +10765,75 @@ java.lang.IllegalArgumentException: Maximum limit of resources to transfer is: 1
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1454)
+!SESSION 2025-08-13 14:12:58.391 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-13 14:13:03.539
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-13 14:13:03.541
+!MESSAGE Log4j2 initialized with config file /home/uttkarsh_8/CUBEIDE/.metadata/.log4j2.xml
+!SESSION 2025-08-13 14:18:46.578 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-13 14:18:50.857
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-13 14:18:50.858
+!MESSAGE Log4j2 initialized with config file /home/uttkarsh_8/CUBEIDE/.metadata/.log4j2.xml
+!SESSION 2025-08-14 01:07:16.342 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-14 01:07:19.767
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-14 01:07:19.767
+!MESSAGE Log4j2 initialized with config file /home/uttkarsh_8/CUBEIDE/.metadata/.log4j2.xml
+!SESSION 2025-08-14 01:12:42.365 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-14 01:12:45.922
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-14 01:12:45.923
+!MESSAGE Log4j2 initialized with config file /home/uttkarsh_8/CUBEIDE/.metadata/.log4j2.xml
+!SESSION 2025-08-14 01:16:50.191 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-14 01:16:53.162
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-14 01:16:53.163
+!MESSAGE Log4j2 initialized with config file /home/uttkarsh_8/CUBEIDE/.metadata/.log4j2.xml
+!SESSION 2025-08-14 01:18:33.270 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -clean
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-14 01:18:37.310
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-14 01:18:37.311
+!MESSAGE Log4j2 initialized with config file /home/uttkarsh_8/CUBEIDE/.metadata/.log4j2.xml
